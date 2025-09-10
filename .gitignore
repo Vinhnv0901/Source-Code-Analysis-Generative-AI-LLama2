@@ -1,0 +1,6 @@
+.env
+venv/
+db/
+research/test_repo/
+research/db/
+repo/
